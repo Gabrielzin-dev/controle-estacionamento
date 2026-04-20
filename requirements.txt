@@ -1,0 +1,3 @@
+# Bibliotecas utilizadas (já inclusas no Python)
+tkinter
+sqlite3
