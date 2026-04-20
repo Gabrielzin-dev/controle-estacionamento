@@ -15,6 +15,8 @@ O projeto foi desenvolvido para atender ao enunciado da disciplina de ADS, aplic
 ## Funcionalidades
 
 ### Cadastro de clientes
+<img width="1497" height="906" alt="image" src="https://github.com/user-attachments/assets/66eec040-5b0c-438c-a2f7-4acf79756fea" />
+
 O sistema possui CRUD completo de clientes, permitindo:
 - cadastrar clientes
 - atualizar clientes
