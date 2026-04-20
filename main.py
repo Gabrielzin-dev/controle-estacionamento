@@ -74,17 +74,17 @@ class SistemaEstacionamento:
         frame_form = tk.LabelFrame(self.aba_clientes, text="Cadastro de Clientes", padx=10, pady=10)
         frame_form.pack(fill="x", padx=10, pady=10)
 
-        tk.Label(frame_form, text="Nome").grid(row=0, column=0, padx=5, pady=5, sticky="w")
+        tk.Label(frame_form, text="Nome", width=10, anchor="w").grid(row=0, column=0, padx=5, pady=5, sticky="w")
         self.entry_nome = tk.Entry(frame_form, width=40)
-        self.entry_nome.grid(row=0, column=1, padx=5, pady=5)
+        self.entry_nome.grid(row=0, column=1, padx=5, pady=5, sticky="we")
 
-        tk.Label(frame_form, text="CPF").grid(row=1, column=0, padx=5, pady=5, sticky="w")
+        tk.Label(frame_form, text="CPF", width=10, anchor="w").grid(row=1, column=0, padx=5, pady=5, sticky="w")
         self.entry_cpf = tk.Entry(frame_form, width=25)
-        self.entry_cpf.grid(row=1, column=1, padx=5, pady=5, sticky="w")
+        self.entry_cpf.grid(row=1, column=1, padx=5, pady=5, sticky="we")
 
-        tk.Label(frame_form, text="Placa").grid(row=2, column=0, padx=5, pady=5, sticky="w")
+        tk.Label(frame_form, text="Placa", width=10, anchor="w").grid(row=2, column=0, padx=5, pady=5, sticky="w")
         self.entry_placa = tk.Entry(frame_form, width=20)
-        self.entry_placa.grid(row=2, column=1, padx=5, pady=5, sticky="w")
+        self.entry_placa.grid(row=2, column=1, padx=5, pady=5, sticky="we")
 
         frame_botoes = tk.Frame(frame_form)
         frame_botoes.grid(row=3, column=0, columnspan=2, pady=10)
