@@ -29,6 +29,8 @@ Campos cadastrados:
 - Placa do veículo
 
 ### Movimentação
+<img width="1488" height="906" alt="image" src="https://github.com/user-attachments/assets/ae493226-ff55-4c91-94d4-76e066baadbd" />
+
 O sistema possui uma aba de movimentação para registrar a utilização das vagas, contendo:
 - Data
 - Hora de entrada
@@ -41,6 +43,8 @@ Também faz o controle de:
 - impedimento de dupla entrada sem saída
 
 ### Financeiro
+<img width="1489" height="900" alt="image" src="https://github.com/user-attachments/assets/e437c2c3-dbcf-453f-b791-886cbb642c39" />
+
 O sistema possui uma aba financeira com:
 - cálculo automático do valor a receber
 - valor por hora configurado no sistema
@@ -48,6 +52,8 @@ O sistema possui uma aba financeira com:
 - baixa de pagamento
 
 ### Relatórios
+<img width="1488" height="889" alt="image" src="https://github.com/user-attachments/assets/cbfb7c07-1a71-4af9-aadd-d667f4552d01" />
+
 O sistema possui os seguintes relatórios:
 - Clientes
 - Recebimentos em aberto
